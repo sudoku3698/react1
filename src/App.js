@@ -10,6 +10,7 @@ function App() {
   console.log('rendered App');
   return (
     <div className="App">
+      Sudoku
         <Image/>
     </div>
   );
